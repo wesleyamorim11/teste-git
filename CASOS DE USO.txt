@@ -1,0 +1,7 @@
+casos de uso é tudo aquilo que faz parte do sistema, que tem suas funções.
+ator: é tudo aquilo que interagi com o sistema.
+
+
+https://www.youtube.com/watch?v=VcOeM2AD8Yk
+
+https://www.youtube.com/watch?v=C3xYBT3o_5k
